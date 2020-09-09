@@ -16,8 +16,10 @@ python runserver.py
 
 # requests.post
 requests.post with json (your image url)
+(return json(result text, and result image url))
 ```cmd
 http://<your host>:8080/post
 ```
-
+# result (by POST MAN)
+![](./git_img/result.jpg)
 
